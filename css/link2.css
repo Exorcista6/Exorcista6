@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Road+Rage&display=swap');
 *,*::before, *::after{
     box-sizing: inherit;
 }
@@ -6,24 +5,25 @@ body{
     padding: 0;
     margin: 0%;
     line-height: 1.6;
-    font-family: Fredoka One;
+    font-family:'Times New Roman', Times, serif;
 }
 #banner{
     min-height: 50vh;
-    background: url(../img/BROCHURE.png) no-repeat center center fixed;
+    background: url(../img/BROCHURE\ DE\ MI\ REGIÓN.png) no-repeat center center fixed;
     background-size: cover;
 }
 .contenedor{
     position: absolute;
-    top: 62%;
-    left: 49%;
+    top: 64%;
+    left: 49.7%;
     transform: translateX(-50%) translateY(-50%);
     color: white;
 }
 #banner h2{
     text-align: center;
     width: 236px;
-    font-size: 22px;
+    font-size: 26px;
+    
 }
 #banner a{
     margin-bottom: 80px;
@@ -35,11 +35,12 @@ body{
 }
 #banner .linea2{
     width: 190px;
-    margin-bottom: 25px;
+    margin-bottom: 38px;
 }
 
 #banner .btn{
-    margin-bottom: 8px;
+    font-family:'Times New Roman', Times, serif;
+    margin-bottom: 13px;
     position: relative;
     display: block;
     height: 40px;
@@ -53,7 +54,7 @@ body{
     transition: all 500ms ease;
     border: 2px solid #6ddbad;
     z-index: 0;
-    font-family: Fredoka One;
+
 }
 
 
