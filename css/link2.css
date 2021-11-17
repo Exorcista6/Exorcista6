@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Road+Rage&display=swap');
 *,*::before, *::after{
     box-sizing: inherit;
 }
@@ -5,7 +6,7 @@ body{
     padding: 0;
     margin: 0%;
     line-height: 1.6;
-    font-family: Dunkin;
+    font-family: Fredoka One;
 }
 #banner{
     min-height: 50vh;
@@ -52,7 +53,7 @@ body{
     transition: all 500ms ease;
     border: 2px solid #6ddbad;
     z-index: 0;
-    font-family: Dunkin;
+    font-family: Fredoka One;
 }
 
 
